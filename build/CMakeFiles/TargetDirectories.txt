@@ -1,0 +1,7 @@
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/prt7_decoder.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/edit_cache.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/rebuild_cache.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/list_install_components.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/install.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/install/local.dir
+/home/arthur/Escritorio/PoliWorks/Practicas/ds-unidad-2-actividad-2-listasenlazadas-GodSci3nc3/build/CMakeFiles/install/strip.dir
